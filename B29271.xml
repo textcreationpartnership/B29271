@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Male spiranti spes: or, Hope and help for the short-breath'd, consumptive, &amp;c. By a precious lung balm, or balsamick syrup for the breast and lungs, and pectoral lozenges for the same, ...</title>
+            <author>Salter, Edwin, fl. 1685.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29271</idno><idno type="EEBO-CITATION">99888797</idno>
+  <idno type="VID">196009</idno>
+  <idno type="EEBO-PROQUEST">2240901913</idno>
+  
+            <idno type="STC">Wing S462A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[17]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R232024</idno>
+            <idno type="PROQUEST">ocm99888797</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888797e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196009)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Male spiranti spes: or, Hope and help for the short-breath'd, consumptive, &amp;c. By a precious lung balm, or balsamick syrup for the breast and lungs, and pectoral lozenges for the same, ...</title>
+                  <author>Salter, Edwin, fl. 1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from caption and first lines of text.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>Imperfect: damaged with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_quack_medicine">
+            <pb facs="tcp:196009:1"/>
+            <head>
+               <hi>Male Spiranti Spes:</hi> OR, Hope and Help for the Short-breath'd, Con<g ref="char:EOLhyphen"/>sumptive, <hi>&amp;c.</hi> By a precious <hi>Lung Balm,</hi> or <hi>Balsamick Syrup</hi> for the <hi>Breast</hi> and <hi>Lungs,</hi> and <hi>Pectoral Lozenges</hi> for the same,</head>
+            <p>THan which, there is nothing in the whole <hi>Series</hi> of Medi<g ref="char:EOLhyphen"/>cine more directly appropriate, or more <hi>kindly</hi> and <hi>effectu<g ref="char:EOLhyphen"/>ally</hi> operative upon all the parts contain'd in the Capaci<g ref="char:EOLhyphen"/>ty of the Breast, and <hi>Organs</hi> of <hi>Respiration.</hi> They ease the <hi>diffi<g ref="char:EOLhyphen"/>cult,</hi> and enlarge the <hi>straitned</hi> Breath. They Cure <hi>Consumptions▪</hi> and even <hi>vlcered Lungs;</hi> Inveterate <hi>Coughs,</hi> which molest the necessary <hi>Repose</hi> of the Night, and <hi>Business</hi> of the Day. They are an admi<g ref="char:EOLhyphen"/>rable Remedy for <hi>Plurisies,</hi> and all <hi>Pains</hi> and <hi>Stitches</hi> in the Sides. They help the <hi>Spasmodick Cough</hi> (vulgarly call'd the <hi>Chin Cough</hi>) in Children. They wonderfully prevail against <hi>spitting</hi> of <hi>Blood,</hi> and <hi>purulent</hi> corrupt <hi>Matter,</hi> which often waste the whole Body even to a <hi>Skeleton.</hi> They intercept and take off thin <hi>Rheums</hi> and <hi>Distillations</hi> which fall upon the <hi>Lungs</hi> and <hi>Throat,</hi> help <hi>Hoarsness</hi> and <hi>Wheesing.</hi> And, in a word, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at the most sovereign <hi>Re<g ref="char:EOLhyphen"/>medy</hi> for whatsoever (either in <hi>matter <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quality</hi>) do annoy or dis<g ref="char:EOLhyphen"/>ease the <hi>Lungs</hi> or <hi>Breast.</hi>
+            </p>
+            <div type="part">
+               <head>The Ʋses are a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> follow.</head>
+               <p>The one is your <hi>Guard</hi> in the <hi>Nigh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> the other your <hi>Companion</hi> in the Day. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the <hi>Lung Balm</hi> two Spoonfuls when you go to Bed; o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ong Constitution</hi> may take three or four, a <hi>Child</hi> one, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or a quarter of Spoonful. The proper <hi>Dose</hi> being ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> small Draught of Posset Drink made with <hi>Sack,</hi> (which <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) <hi>Ale</hi> or <hi>Beer,</hi> with <hi>Rosemary</hi> boiled in it. In the Morning use <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>that</hi> quantity you took at Ni<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nking the <hi>s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> D<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. Keep your self warm, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> your Bu<g ref="char:EOLhyphen"/>siness. The <hi>Lozenges</hi> you must have ever with yo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> take them very <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and let them dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olve in your Mouth, and swallow them as they dissolve. Thus by this easie and constant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se of the two great <hi>Restoratives,</hi> all the aforesaid Diseases are kept under, and by degrees wholly vanquished, and the languishing Body findeth in them relief and strength.</p>
+               <pb facs="tcp:196009:2"/>
+               <p>☞ I must add <hi>this,</hi> that for <hi>Convulsions</hi> in <hi>Children,</hi> and for <hi>Women</hi> who are often troubled with <hi>Vapors</hi> and <hi>Head-ache,</hi> there is not a more ready help to be found than this <hi>Balm,</hi> taken as directed.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="advert_for_quack_medicine">
+                           <head>By the fame <hi>Author</hi> is also prepared <hi>A Sternutatory POWDER or SNƲFF,</hi>
+                           </head>
+                           <p>Which wonderfully fortifies the <hi>Brain,</hi> and all its animal Facul<g ref="char:EOLhyphen"/>ties. It makes the <hi>Senses</hi> clear and quick, strengthning the <hi>Memory</hi> wonderful<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>verts <hi>Defluctions</hi> and <hi>Rheums</hi> upon the <hi>Palate, Throat,</hi> and <hi>Nerv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi>
+                              <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> is very powerful against all <hi>Distempers</hi> of the Brain. It is sold <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y the same person at 2 s. 6 d. the Ounce.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="advert_for_quack_medicine">
+                           <head>
+                              <hi>COLLYRIƲM LƲNARE:</hi> Being an admirable EYE-WATER.</head>
+                           <p>It marvellously clears the <hi>Sight,</hi> and preserves it in an extraor<g ref="char:EOLhyphen"/>dinary manner; and of above 300 <hi>Diseases</hi> incident to the <hi>Eyes,</hi> there is scarce any that do not submit to this precious <hi>Colyrie,</hi> and they who use it constantly, need not make use of <hi>Spectacles.</hi> The use is, to droo 3 or 4 drops thereof with a Feather, or other thing convenient, into the <hi>Eyes</hi> every Morning and Night, and wet the <hi>Eye-lids</hi> and <hi>Temples</hi> therewith sometimes in the day. Price 1 s. the Bottle, holding about three Ounces. Sold by the same person.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>These are prepared by <hi>EDWYN SALTER</hi> Doctor in Physick, and ordered to be sold (Each Bottle of the <hi>Lung Balm</hi> containing Six Ounces 2 s. Each Paper of <hi>Lozenges</hi> Four Ounces 1 s. 6 d.) by Mrs. <hi>Jane Mundy</hi> at her House next Door to the <hi>Sugar<g ref="char:EOLhyphen"/>loaf</hi> in <hi>Nevill</hi>'s <hi>Alley</hi> in <hi>Fetter-lane, London,</hi> and from her hands by—</p>
+               <p>Mr. <hi>Pelcom</hi> Millener at the <hi>Goat</hi> in <hi>Cheapside.</hi>
+               </p>
+               <p>Mr. <hi>Robert Morne</hi> Bookseller at the Entrance of the <hi>B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>el Exchange.</hi>
+               </p>
+               <p>Mr. <hi>Samuel Crouch</hi> at the corner of <hi>Popes head Alle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il,</hi> Book<g ref="char:EOLhyphen"/>seller.</p>
+               <p>Mr. <hi>John Rolff</hi> Millener, next door to the Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn without <hi>Bishopsgat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p>Mr. <hi>Cha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>don</hi> Cheesemonger at the <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ying-Pan</hi> and <hi>Three Tun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p>Mr. <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ford</hi> Bookseller at the <hi>Crown</hi> in <hi>Pall-Mall.</hi>
+               </p>
+               <p>Mr. <hi>Ed. Gravener</hi> Cheesemonger at the <hi>White-Horse</hi> at <hi>Cripplegate.</hi>
+               </p>
+               <p>Mr. <hi>William Court</hi> at the Sign of the <hi>Anchor</hi> and <hi>Mariner</hi> upon <hi>Lit<g ref="char:EOLhyphen"/>tle Tower hill,</hi> Stationer.</p>
+               <p>Mrs. <hi>Elizabeth Feltham</hi> at the Stairs Feet that goes up to the Par<g ref="char:EOLhyphen"/>liament-House in <hi>Westminster,</hi> Stationer.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
